@@ -64,8 +64,8 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 ### Preview
 
 <p align="center"> 
-  <a href="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png"> 
-    <img src="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png" alt="Preview"> 
+  <a href="https://user-images.githubusercontent.com/17535388/74982524-0d271b80-5413-11ea-8888-d82c71267815.png"> 
+    <img src="https://user-images.githubusercontent.com/17535388/74982524-0d271b80-5413-11ea-8888-d82c71267815.png" alt="Preview"> 
   </a> 
 </p>
 

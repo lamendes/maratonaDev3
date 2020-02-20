@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<h2 align="center">Projeto:</h2>
+<h1 align="right">Projeto:</h1>
 <p align="center">
   <a href="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png">
     <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo DOE" width="120">

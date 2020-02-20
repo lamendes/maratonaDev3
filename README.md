@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <a href="">
+  <a href="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png">
     <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo DOE" width="120">
   </a>
   <h3 align="center">Doe sangue! Doe vida!</h3>
@@ -52,8 +52,8 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 ### Print Screen
 
 <p align="center"> 
-  <a href=""> 
-    <img src="https://user-images.githubusercontent.com/17535388/74963667-e1933980-53f0-11ea-85f0-fe45adb8d13e.png" alt="Print Screen Site"> 
+  <a href="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png"> 
+    <img src="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png" alt="Print Screen Site"> 
   </a> 
 </p>
 

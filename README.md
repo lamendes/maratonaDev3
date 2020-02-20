@@ -3,6 +3,9 @@
   <a href="https://rocketseat.com.br/maratonadev/inscricao/3.0">
     <img src="https://user-images.githubusercontent.com/17535388/74955985-32506580-53e4-11ea-9ed0-5da75c0bf176.png" alt="Logo">
   </a>
+</p>
+
+<p align="center">
 
   <a href="">
     <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo" width="120">

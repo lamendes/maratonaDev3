@@ -1,13 +1,14 @@
 <br />
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
-    
+
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://rocketseat.com.br/maratonadev/inscricao/3.0">
@@ -16,6 +17,8 @@
   </a>
 
 </p>
+
+<br />
 
 <p align="center">
 

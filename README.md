@@ -37,7 +37,7 @@
 - [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Feito Com](#feito-com)
-  - [Print Screen](#print-screen)
+  - [Preview](#preview)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
@@ -56,15 +56,16 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 -   [Nunjucks][nunjucks]
 -   [Nodemon][nodemon]
 -   [PostgreSQL][postgresql]
+-   [Postbird][postbird]
 -   [NodeJS][nodejs]
 -   [Yarn][yarn]
 -   [VS Code][vc]
 
-### Print Screen
+### Preview
 
 <p align="center"> 
   <a href="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png"> 
-    <img src="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png" alt="Print Screen Site"> 
+    <img src="https://user-images.githubusercontent.com/17535388/74963972-5c5c5480-53f1-11ea-9ed5-14a28f780c38.png" alt="Preview"> 
   </a> 
 </p>
 
@@ -88,5 +89,6 @@ MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
 [html]: https://www.w3schools.com/html/
 [express]: https://expressjs.com/
 [postgresql]:https://www.postgresql.org 
+[postbird]:https://www.electronjs.org/apps/postbird 
 [nodemon]: https://www.postgresql.org
 [nunjucks]: https://mozilla.github.io/nunjucks/

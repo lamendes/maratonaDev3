@@ -74,6 +74,7 @@ form button {
 
 form input {
     background-color: transparent;
+    color: #ffffffaa;
 }
 
 form input::placeholder {
@@ -82,6 +83,7 @@ form input::placeholder {
 
 form button {
     font-weight: bold;
+    background-color: #ffffffee;
 }
 
 main .donors {

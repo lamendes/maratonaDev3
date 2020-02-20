@@ -4,7 +4,17 @@
     <img src="https://user-images.githubusercontent.com/17535388/74955985-32506580-53e4-11ea-9ed0-5da75c0bf176.png" alt="Logo">
   </a>
 
-  <h3 align="center">Doe vida! Doe sangue!</h3>
+  <a href="">
+    <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo" width="120">
+  </a>
+
+  <h3 align="center">Doe sangue! Doe vida!</h3>
+</p>
+
+<p align="center"> 
+  <a href="https://opensource.org/licenses/MIT"> 
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
+  </a> 
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -21,14 +31,19 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
+Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro de doadores de sangue.
 
 ### Feito Com
 
--  [HTML 5][html]
--  [CSS 3]
--  [NodeJS][nodejs]
--  [VS Code][vc]
+-   [HTML5]
+-   [CSS3]
+-   [JS] 
+-   [Express][express]
+-   [Nunjucks][nunjucks]
+-   [Nodemon][nodemon]
+-   [PostgreSQL][postgresql]
+-   [NodeJS][nodejs]
+-   [VS Code][vc]
 
 
 <!-- LICENSE -->
@@ -41,7 +56,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-MDKTech - [Github](https://github.com/lamendes) - **lucas@mdktech.com.br** - by Lucas Mendes
+MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
@@ -49,3 +64,7 @@ MDKTech - [Github](https://github.com/lamendes) - **lucas@mdktech.com.br** - by 
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [html]: https://www.w3schools.com/html/
+[express]: https://expressjs.com/
+[postgresql]:https://www.postgresql.org 
+[nodemon]: https://www.postgresql.org
+[nunjucks]: https://mozilla.github.io/nunjucks/

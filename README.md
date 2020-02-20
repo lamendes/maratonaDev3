@@ -9,7 +9,7 @@
 <p align="center">
 
   <a href="">
-    <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo" width="120">
+    <img src="https://user-images.githubusercontent.com/17535388/74961640-287f3000-53ed-11ea-9200-c2af84b6419d.png" alt="Logo DOE" width="120">
   </a>
   <h3 align="center">Doe sangue! Doe vida!</h3>
 </p>
@@ -27,6 +27,7 @@
 - [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Feito Com](#feito-com)
+  - [Print Screen](#print-screen)
 - [Licença](#licen%C3%A7a)
 - [Contato](#contato)
 
@@ -38,9 +39,9 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 
 ### Feito Com
 
--   [HTML5]
--   [CSS3]
--   [JS] 
+-   [HTML5][]
+-   [CSS3][]
+-   [JS][]
 -   [Express][express]
 -   [Nunjucks][nunjucks]
 -   [Nodemon][nodemon]
@@ -48,6 +49,13 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 -   [NodeJS][nodejs]
 -   [VS Code][vc]
 
+### Print Screen
+
+<p align="center"> 
+  <a href=""> 
+    <img src="https://user-images.githubusercontent.com/17535388/74963667-e1933980-53f0-11ea-85f0-fe45adb8d13e.png" alt="Print Screen Site"> 
+  </a> 
+</p>
 
 <!-- LICENSE -->
 

@@ -1,2 +1,2 @@
-# maratonaDev3
+# maratonadev3
 Maratona DEV 3.0 By Rocketseat

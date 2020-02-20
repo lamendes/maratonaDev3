@@ -57,6 +57,7 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 -   [Nodemon][nodemon]
 -   [PostgreSQL][postgresql]
 -   [NodeJS][nodejs]
+-   [Yarn][yarn]
 -   [VS Code][vc]
 
 ### Print Screen
@@ -77,7 +78,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes
+MDKTech - **lucas@mdktech.com.br** - by Lucas Mendes 🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/

@@ -54,10 +54,10 @@ Este projeto tem por objetivo criar uma aplicação WEB do zero, para cadastro d
 -   JS
 -   [Express][express]
 -   [Nunjucks][nunjucks]
+-   [NodeJS][nodejs]
 -   [Nodemon][nodemon]
 -   [PostgreSQL][postgresql]
 -   [Postbird][postbird]
--   [NodeJS][nodejs]
 -   [Yarn][yarn]
 -   [VS Code][vc]
 
